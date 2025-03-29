@@ -6,3 +6,4 @@
 - Correr Puente entre postgresql y el crud de flutter + dart
 - carpeta backend_muebles y corres en la terminal: node server.js
 
+Explicacion del Crud: https://youtu.be/DnLAKQYfJzk
